@@ -1,0 +1,7 @@
+
+
+
+In this project, I created the landing page of Amazon web site using HTML & CSS.
+
+The link to see the landing page:
+https://sateeshb1997.github.io/Amazon_User_Interface_HTML_CSS/
